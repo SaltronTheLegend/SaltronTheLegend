@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saltronthelegend&theme=dark&show_icons=true&locale=en&layout=compact" alt="saltronthelegend" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saltronthelegend&show_icons=true&locale=en" alt="saltronthelegend" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saltronthelegend&theme=dark&show_icons=true&locale=en" alt="saltronthelegend" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saltronthelegend&" alt="saltronthelegend" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saltronthelegend&theme=dark" alt="saltronthelegend" /></p>
