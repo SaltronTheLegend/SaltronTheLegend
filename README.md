@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **video games duh**
 
-- 📫 How to reach me **akifhoda786@gmail.com**
+- 📫 How to reach me **akifhoda25@gmail.com**
 
 - ⚡ Fun fact **The One Piece is reallll!!!**
 
