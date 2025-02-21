@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saltronthelegend&label=Profile%20views&color=0e75b6&style=flat" alt="saltronthelegend" /> </p>
 
-- 🔭 I’m currently working on **Video Games**
+- 🔭 I’m currently working on **Video Games** and other programming stuff.
 
 - 🌱 I’m currently learning **UE5 and CPP**
 
