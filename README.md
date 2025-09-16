@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Video Games** and other programming stuff.
 
-- 🌱 I’m currently learning **UE5 and CPP**
+- 🌱 I’m currently learning **GO**
 
 - 👯 I’m looking to collaborate on **Game Engines/ video games**
 
